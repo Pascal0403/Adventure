@@ -10,6 +10,7 @@ namespace Text_Adventure_Try_1
     {
         static void Main(string[] args)
         {
+            dsfrygdrfs
         }
     }
 }
